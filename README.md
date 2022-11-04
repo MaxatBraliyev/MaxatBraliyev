@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MaxatBraliyev
-- 👀 I’m interested in programming on python.
+- 👀 I’m interested in programming on golang and python.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Maxat.Braliyev85@gmail.com
